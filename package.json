@@ -1,0 +1,30 @@
+{
+  "name": "minified-name",
+  "version": "1.0.0",
+  "description": "Create minified file name. jquery.js -> jquery.min.js",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wankdanker/node-minified-name"
+  },
+  "keywords": [
+    "create",
+    "min",
+    "file",
+    "name"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-minified-name/issues"
+  },
+  "homepage": "https://github.com/wankdanker/node-minified-name"
+}
